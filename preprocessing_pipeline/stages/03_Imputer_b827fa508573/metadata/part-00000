@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787148901,"sparkVersion":"3.5.5","uid":"Imputer_b827fa508573","paramMap":{"inputCols":["arrival_date_week_number"],"strategy":"median","outputCols":["arrival_date_week_number_imputed"]},"defaultParamMap":{"missingValue":"NaN","relativeError":0.001,"strategy":"mean","outputCol":"Imputer_b827fa508573__output"}}

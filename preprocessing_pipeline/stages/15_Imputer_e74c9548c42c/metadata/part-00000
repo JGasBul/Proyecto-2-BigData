@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787152089,"sparkVersion":"3.5.5","uid":"Imputer_e74c9548c42c","paramMap":{"outputCols":["total_of_special_requests_imputed"],"inputCols":["total_of_special_requests"],"strategy":"median"},"defaultParamMap":{"outputCol":"Imputer_e74c9548c42c__output","missingValue":"NaN","strategy":"mean","relativeError":0.001}}

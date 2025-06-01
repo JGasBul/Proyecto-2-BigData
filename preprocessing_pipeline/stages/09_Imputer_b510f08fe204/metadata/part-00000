@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787150928,"sparkVersion":"3.5.5","uid":"Imputer_b510f08fe204","paramMap":{"inputCols":["previous_cancellations"],"outputCols":["previous_cancellations_imputed"],"strategy":"median"},"defaultParamMap":{"relativeError":0.001,"strategy":"mean","outputCol":"Imputer_b510f08fe204__output","missingValue":"NaN"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787151588,"sparkVersion":"3.5.5","uid":"Imputer_23d2dffdd4ab","paramMap":{"strategy":"median","outputCols":["days_in_waiting_list_imputed"],"inputCols":["days_in_waiting_list"]},"defaultParamMap":{"missingValue":"NaN","strategy":"mean","outputCol":"Imputer_23d2dffdd4ab__output","relativeError":0.001}}

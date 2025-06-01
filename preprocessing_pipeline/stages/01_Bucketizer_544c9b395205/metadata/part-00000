@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Bucketizer","timestamp":1748787147688,"sparkVersion":"3.5.5","uid":"Bucketizer_544c9b395205","paramMap":{"outputCol":"lead_time_bucket","splits":["-Inf",7.0,30.0,90.0,365.0,"Inf"],"inputCol":"lead_time"},"defaultParamMap":{"outputCol":"Bucketizer_544c9b395205__output","handleInvalid":"error"}}

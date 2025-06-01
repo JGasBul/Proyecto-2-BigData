@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1748787154021,"sparkVersion":"3.5.5","uid":"StringIndexer_92089a1e3291","paramMap":{"outputCol":"deposit_type_indexed","inputCol":"deposit_type","handleInvalid":"keep"},"defaultParamMap":{"outputCol":"StringIndexer_92089a1e3291__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

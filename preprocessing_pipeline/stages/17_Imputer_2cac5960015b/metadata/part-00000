@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787152574,"sparkVersion":"3.5.5","uid":"Imputer_2cac5960015b","paramMap":{"outputCols":["total_guests_imputed"],"inputCols":["total_guests"],"strategy":"median"},"defaultParamMap":{"missingValue":"NaN","relativeError":0.001,"strategy":"mean","outputCol":"Imputer_2cac5960015b__output"}}

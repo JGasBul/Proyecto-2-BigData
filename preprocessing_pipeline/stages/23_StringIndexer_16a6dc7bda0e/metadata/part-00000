@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1748787153814,"sparkVersion":"3.5.5","uid":"StringIndexer_16a6dc7bda0e","paramMap":{"handleInvalid":"keep","outputCol":"reserved_room_type_indexed","inputCol":"reserved_room_type"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_16a6dc7bda0e__output"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787149225,"sparkVersion":"3.5.5","uid":"Imputer_b568fa046509","paramMap":{"outputCols":["stays_in_weekend_nights_imputed"],"strategy":"median","inputCols":["stays_in_weekend_nights"]},"defaultParamMap":{"outputCol":"Imputer_b568fa046509__output","missingValue":"NaN","strategy":"mean","relativeError":0.001}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Bucketizer","timestamp":1748787147583,"sparkVersion":"3.5.5","uid":"Bucketizer_9821b969c5f4","paramMap":{"splits":["-Inf",50.0,100.0,150.0,200.0,"Inf"],"outputCol":"adr_bucket","inputCol":"adr"},"defaultParamMap":{"handleInvalid":"error","outputCol":"Bucketizer_9821b969c5f4__output"}}

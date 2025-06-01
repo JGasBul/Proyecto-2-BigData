@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787147789,"sparkVersion":"3.5.5","uid":"Imputer_a3fb7cdae827","paramMap":{"outputCols":["lead_time_imputed"],"strategy":"median","inputCols":["lead_time"]},"defaultParamMap":{"strategy":"mean","relativeError":0.001,"outputCol":"Imputer_a3fb7cdae827__output","missingValue":"NaN"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787152357,"sparkVersion":"3.5.5","uid":"Imputer_b0396b40315d","paramMap":{"strategy":"median","inputCols":["total_nights"],"outputCols":["total_nights_imputed"]},"defaultParamMap":{"strategy":"mean","missingValue":"NaN","outputCol":"Imputer_b0396b40315d__output","relativeError":0.001}}

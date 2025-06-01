@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1748787151431,"sparkVersion":"3.5.5","uid":"Imputer_dc0ea11951c6","paramMap":{"strategy":"median","outputCols":["booking_changes_imputed"],"inputCols":["booking_changes"]},"defaultParamMap":{"strategy":"mean","relativeError":0.001,"outputCol":"Imputer_dc0ea11951c6__output","missingValue":"NaN"}}
