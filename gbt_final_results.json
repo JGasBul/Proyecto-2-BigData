@@ -1,0 +1,31 @@
+{
+  "model": "Gradient Boosted Trees (Configuraci\u00f3n \u00d3ptima)",
+  "methodology": "Sin Grid Search - Par\u00e1metros basados en experimentos previos",
+  "performance_level": "BUENO",
+  "metrics": {
+    "f1_score": 0.8450250320513216,
+    "auc_score": 0.9155404367547946,
+    "accuracy": 0.8468249685195179,
+    "precision": 0.847944536780558,
+    "recall": 0.8468249685195179
+  },
+  "training_info": {
+    "training_time_seconds": 118.1920518875122,
+    "feature_dimension": 27,
+    "pipeline_stages": 8
+  },
+  "configuration": {
+    "maxDepth": 7,
+    "maxIter": 150,
+    "stepSize": 0.2,
+    "subsamplingRate": 1.0,
+    "minInstancesPerNode": 1
+  },
+  "comparison_with_grid_search": {
+    "previous_best_f1": 0.858,
+    "current_f1": 0.8450250320513216,
+    "difference": -0.012974967948678362,
+    "time_saved": "Grid Search evitado - Crasheo de maquina virtual evitado"
+  },
+  "experiment_timestamp": "2025-06-11 20:53:11"
+}
